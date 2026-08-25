@@ -1,0 +1,13 @@
+{
+  "1": {
+    "class_type": "TextureReplaceSheetLoader",
+    "inputs": {
+      "csv_path": "",
+      "index": 1,
+      "on_missing": "error"
+    },
+    "_meta": {
+      "title": "Texture Replace Sheet Loader (CSV) — 序号 1"
+    }
+  }
+}
